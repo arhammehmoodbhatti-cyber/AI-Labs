@@ -1,0 +1,32 @@
+Original: 'AI, search!'
+Whitespace: ['AI,', 'search!'] count: 2
+Word-like: ['AI', 'search'] count: 2
+
+Original: "I can't log in."
+Whitespace: ['I', "can't", 'log', 'in.'] count: 4
+Word-like: ['I', 'can', 't', 'log', 'in'] count: 5
+
+Original: 'help@example.com'
+Whitespace: ['help@example.com'] count: 1
+Word-like: ['help', 'example', 'com'] count: 3
+
+Original: 'CS4944'
+Whitespace: ['CS4944'] count: 1
+Word-like: ['CS4944'] count: 1
+
+Original: ''
+Whitespace: [] count: 0
+Word-like: [] count: 0
+
+Original: 'یہ ایک مثال ہے'
+Whitespace: ['یہ', 'ایک', 'مثال', 'ہے'] count: 4
+Word-like: ['یہ', 'ایک', 'مثال', 'ہے'] count: 4
+
+Original: 'Version 2.1 is ready.'
+Whitespace: ['Version', '2.1', 'is', 'ready.'] count: 4
+Word-like: ['Version', '2', '1', 'is', 'ready'] count: 5
+
+Model tokenizer not available: ModuleNotFoundError
+
+Exit code: 0
+Elapsed seconds: 0.6815

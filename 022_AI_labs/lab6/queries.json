@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What evidence is needed for an illness extension?",
+    "doc": "late_rule",
+    "evidence": "medical evidence is submitted before the deadline",
+    "split": "dev"
+  },
+  {
+    "query": "How can I get back into my account?",
+    "doc": "password_help",
+    "evidence": "using the recovery link on the login page",
+    "split": "dev"
+  },
+  {
+    "query": "Where should coursework be handed in?",
+    "doc": "assignment_upload",
+    "evidence": "uploaded through the learning portal",
+    "split": "dev"
+  },
+  {
+    "query": "Are contractors allowed to work from home?",
+    "doc": "contractor_policy",
+    "evidence": "only when the signed contract explicitly permits remote work",
+    "split": "dev"
+  },
+  {
+    "query": "What should I check when a printer makes blank pages?",
+    "doc": "printer_help",
+    "evidence": "check the ink level and run the printer cleaning utility",
+    "split": "test"
+  },
+  {
+    "query": "I cannot sign in because I forgot my password. What can I do?",
+    "doc": "password_help",
+    "evidence": "using the recovery link on the login page",
+    "split": "test"
+  },
+  {
+    "query": "How do I send my assignment file to the course?",
+    "doc": "assignment_upload",
+    "evidence": "uploaded through the learning portal",
+    "split": "test"
+  },
+  {
+    "query": "I was sick near the deadline. What proof is required?",
+    "doc": "late_rule",
+    "evidence": "medical evidence is submitted before the deadline",
+    "split": "test"
+  },
+  {
+    "query": "What is the current price of a flight tomorrow?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  },
+  {
+    "query": "Who won yesterday's football match?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  }
+]

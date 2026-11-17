@@ -1,0 +1,4 @@
+printer:blank score=0.311 For blank printer pages: check ink level, run the printer cleaning utility, and print a test page.
+
+Exit code: 0
+Elapsed seconds: 1.7376

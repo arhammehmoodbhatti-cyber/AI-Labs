@@ -1,0 +1,7 @@
+Leaf values: [3, 5, 2, 9, 0, 7, 0, 0]
+Root value: 5
+Leaves evaluated: 8
+Padded tree depth: 3
+
+Exit code: 0
+Elapsed seconds: 0.6358

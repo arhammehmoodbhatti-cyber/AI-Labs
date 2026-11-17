@@ -1,0 +1,7 @@
+BFS path: A -> B -> E -> G
+BFS processed: ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+DFS path: A -> B -> E -> G
+DFS processed: ['A', 'B', 'D', 'E', 'G']
+
+Exit code: 0
+Elapsed seconds: 0.7091

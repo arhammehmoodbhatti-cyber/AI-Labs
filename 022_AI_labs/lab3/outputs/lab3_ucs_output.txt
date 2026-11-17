@@ -1,0 +1,7 @@
+UCS path: A -> B -> E -> G cost: 3
+UCS processed: ['A', 'B', 'D', 'E', 'G']
+Independent cost: 3
+BFS route: A -> C -> G cost: 12
+
+Exit code: 0
+Elapsed seconds: 0.8513

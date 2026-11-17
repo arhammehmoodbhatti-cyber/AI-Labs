@@ -1,0 +1,12 @@
+Backend: tfidf
+Query: assignment upload
+faq:submit Where do I submit my assignment? 0.581
+Query: forgot login
+faq:password How do I reset my password? 0.311
+Query: can I work from home
+faq:contractor Can contractors work remotely? 0.390
+faq:late Can illness justify a late submission? 0.141
+Backend not run: embedding ModuleNotFoundError No module named 'sentence_transformers'
+
+Exit code: 0
+Elapsed seconds: 1.3711

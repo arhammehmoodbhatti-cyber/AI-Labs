@@ -1,0 +1,20 @@
+
+Strategy: 0 chunks: 30 min/max words: 18 40 repeated word units: 0 rule and exception together: True
+late_rule:0 0 259 40
+late_rule:1 260 509 40
+late_rule:2 510 772 40
+
+Strategy: 10 chunks: 37 min/max words: 17 40 repeated word units: 310 rule and exception together: True
+late_rule:0 0 259 40
+late_rule:1 201 457 40
+late_rule:2 381 643 40
+
+Strategy: sentence chunks: 35 min/max words: 19 40 repeated word units: 0 rule and exception together: True
+late_rule:0 0 236 37
+late_rule:1 236 449 32
+late_rule:2 449 689 40
+Invalid overlap check passed
+Long sentence fallback check passed
+
+Exit code: 0
+Elapsed seconds: 0.6461

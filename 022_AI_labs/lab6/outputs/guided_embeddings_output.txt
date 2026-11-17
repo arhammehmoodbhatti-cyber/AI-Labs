@@ -1,0 +1,14 @@
+Backend: tfidf
+Query: How can I regain access to my account?
+password_help:1 0.444 password_help 205 372 Users should confirm that the page belongs to the official portal before entering account details. The help desk can guide students through the account recovery page. 
+password_help:2 0.444 password_help 372 539 Users should confirm that the page belongs to the official portal before entering account details. The help desk can guide students through the account recovery page. 
+Query: Where can I hand in my coursework?
+late_rule_general:6 0.210 late_rule_general 929 1172 Students should check the portal for the current submission date and should not rely on an informal message. Keep all submission records for reference. The illness exception in the assessment rule requires medical evidence before the deadline.
+assignment_upload:2 0.116 assignment_upload 429 636 Students can open the course page and choose the assignment upload area. A file is not submitted until the portal displays a receipt. Students can open the course page and choose the assignment upload area. 
+Query: What should I do when my printer produces empty sheets?
+printer_help:4 0.381 printer_help 936 1169 Keep the printer model available when contacting technical support. A blank scanner image has a different cause and should be checked using scanner settings. Do not use scanner instructions as a replacement for the printer procedure.
+printer_help:2 0.286 printer_help 462 688 Keep the printer model available when contacting technical support. A blank scanner image has a different cause and should be checked using scanner settings. Keep the printer model available when contacting technical support. 
+Backend not run: embedding ModuleNotFoundError No module named 'sentence_transformers'
+
+Exit code: 0
+Elapsed seconds: 1.4123

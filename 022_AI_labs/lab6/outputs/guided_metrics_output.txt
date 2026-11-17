@@ -1,0 +1,4 @@
+Hit@3=0.667; MRR@3=0.500
+
+Exit code: 0
+Elapsed seconds: 0.5993

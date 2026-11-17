@@ -1,0 +1,107 @@
+Embedding backend unavailable: ModuleNotFoundError No module named 'sentence_transformers'
+
+ 0 tfidf chunks 30 encode 0.0021 search 0.0002
+dev Hit@3 0.75 MRR@3 0.75
+test Hit@3 0.75 MRR@3 0.625
+1 late_rule:0 0.453 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule_general:4 0.318 1014 1172 on an informal message. Keep all submission records for reference. The illness exception in the assessment rul
+3 late_rule:4 0.29 1015 1136 requests using the stated conditions. A request without the required evidence does not qualify for the illness
+1 password_help:3 0.438 749 1004 to the official portal before entering account details. The help desk can guide students through the account r
+2 password_help:1 0.431 235 488 page belongs to the official portal before entering account details. The help desk can guide students through 
+3 password_help:2 0.359 489 748 guide students through the account recovery page. Users should confirm that the page belongs to the official p
+1 assignment_upload:0 0.255 0 235 Assignments must be uploaded through the learning portal before the deadline. The final file should be saved a
+2 late_rule_general:4 0.226 1014 1172 on an informal message. Keep all submission records for reference. The illness exception in the assessment rul
+3 printer_help:1 0.157 242 510 different cause and should be checked using scanner settings. Keep the printer model available when contacting
+1 contractor_policy:0 0.373 0 268 Employees may request remote work with manager approval. Contractors may work remotely only when the signed co
+2 contractor_policy:4 0.187 1054 1208 automatically apply to a contractor. If the contract is silent about remote work, the contractor must not assu
+3 late_rule_general:0 0.102 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 printer_help:0 0.47 0 241 For blank printer pages, check the ink level and run the printer cleaning utility. Print a test page after cle
+2 printer_help:3 0.317 768 1031 settings. Keep the printer model available when contacting technical support. A blank scanner image has a diff
+3 printer_help:1 0.275 242 510 different cause and should be checked using scanner settings. Keep the printer model available when contacting
+1 password_help:0 0.163 0 234 A forgotten password can be reset by using the recovery link on the login page. Recovery codes must never be s
+2 printer_help:4 0.162 1032 1169 different cause and should be checked using scanner settings. Do not use scanner instructions as a replacement
+3 late_rule_general:4 0.159 1014 1172 on an informal message. Keep all submission records for reference. The illness exception in the assessment rul
+1 assignment_upload:3 0.331 706 933 can open the course page and choose the assignment upload area. A file is not submitted until the portal displ
+2 assignment_upload:2 0.3 467 705 choose the assignment upload area. A file is not submitted until the portal displays a receipt. Students can o
+3 assignment_upload:1 0.278 236 466 file is not submitted until the portal displays a receipt. Students can open the course page and choose the as
+1 late_rule:4 0.281 1015 1136 requests using the stated conditions. A request without the required evidence does not qualify for the illness
+2 late_rule:0 0.26 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+3 late_rule_general:0 0.214 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 assignment_upload:4 0.292 934 1052 the portal displays a receipt. If the portal is unavailable, take note of the time and contact the course coor
+2 late_rule:0 0.282 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+3 late_rule_general:0 0.251 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 late_rule:0 0.0 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule:1 0.0 260 509 requests using the stated conditions. Students should check the course portal for dates and keep a copy of the
+3 late_rule:2 0.0 510 772 copy of the submitted file. The coordinator reviews requests using the stated conditions. Students should chec
+
+ 10 tfidf chunks 37 encode 0.0014 search 0.0001
+dev Hit@3 0.75 MRR@3 0.75
+test Hit@3 0.75 MRR@3 0.75
+1 late_rule:0 0.467 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule_general:5 0.311 955 1172 portal for the current submission date and should not rely on an informal message. Keep all submission records
+3 late_rule:5 0.253 956 1136 keep a copy of the submitted file. The coordinator reviews requests using the stated conditions. A request wit
+1 password_help:4 0.442 749 1004 to the official portal before entering account details. The help desk can guide students through the account r
+2 password_help:5 0.386 939 1194 before entering account details. The help desk can guide students through the account recovery page. Users sho
+3 password_help:3 0.369 560 813 that the page belongs to the official portal before entering account details. The help desk can guide students
+1 assignment_upload:0 0.251 0 235 Assignments must be uploaded through the learning portal before the deadline. The final file should be saved a
+2 late_rule_general:5 0.228 955 1172 portal for the current submission date and should not rely on an informal message. Keep all submission records
+3 printer_help:1 0.16 179 437 when contacting technical support. A blank scanner image has a different cause and should be checked using sca
+1 contractor_policy:0 0.386 0 268 Employees may request remote work with manager approval. Contractors may work remotely only when the signed co
+2 contractor_policy:5 0.162 984 1208 terms before confirming eligibility. A general employee rule does not automatically apply to a contractor. If 
+3 late_rule_general:0 0.108 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 printer_help:0 0.461 0 241 For blank printer pages, check the ink level and run the printer cleaning utility. Print a test page after cle
+2 printer_help:4 0.309 768 1031 settings. Keep the printer model available when contacting technical support. A blank scanner image has a diff
+3 printer_help:1 0.273 179 437 when contacting technical support. A blank scanner image has a different cause and should be checked using sca
+1 password_help:0 0.158 0 234 A forgotten password can be reset by using the recovery link on the login page. Recovery codes must never be s
+2 password_help:6 0.147 1139 1234 If the recovery link has expired, contact the help desk instead of sending a password by email.
+3 late_rule_general:5 0.14 955 1172 portal for the current submission date and should not rely on an informal message. Keep all submission records
+1 assignment_upload:1 0.335 179 408 the course page and choose the assignment upload area. A file is not submitted until the portal displays a rec
+2 assignment_upload:4 0.317 706 933 can open the course page and choose the assignment upload area. A file is not submitted until the portal displ
+3 assignment_upload:3 0.29 526 763 until the portal displays a receipt. Students can open the course page and choose the assignment upload area. 
+1 late_rule:0 0.263 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule:5 0.263 956 1136 keep a copy of the submitted file. The coordinator reviews requests using the stated conditions. A request wit
+3 late_rule_general:0 0.214 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 assignment_upload:5 0.348 876 1052 the assignment upload area. A file is not submitted until the portal displays a receipt. If the portal is unav
+2 late_rule:0 0.287 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+3 late_rule_general:0 0.243 0 253 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 late_rule:0 0.0 0 259 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule:1 0.0 201 457 keep a copy of the submitted file. The coordinator reviews requests using the stated conditions. Students shou
+3 late_rule:2 0.0 381 643 file. The coordinator reviews requests using the stated conditions. Students should check the course portal fo
+
+ sentence tfidf chunks 35 encode 0.0012 search 0.0001
+dev Hit@3 0.75 MRR@3 0.75
+test Hit@3 0.75 MRR@3 0.75
+1 late_rule:0 0.483 0 236 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule_general:6 0.298 929 1172 Students should check the portal for the current submission date and should not rely on an informal message. K
+3 late_rule:4 0.257 902 1136 Students should check the course portal for dates and keep a copy of the submitted file. The coordinator revie
+1 password_help:1 0.416 205 372 Users should confirm that the page belongs to the official portal before entering account details. The help de
+2 password_help:2 0.416 372 539 Users should confirm that the page belongs to the official portal before entering account details. The help de
+3 password_help:3 0.416 539 706 Users should confirm that the page belongs to the official portal before entering account details. The help de
+1 assignment_upload:0 0.262 0 234 Assignments must be uploaded through the learning portal before the deadline. The final file should be saved a
+2 late_rule_general:6 0.245 929 1172 Students should check the portal for the current submission date and should not rely on an informal message. K
+3 printer_help:1 0.155 214 462 A blank scanner image has a different cause and should be checked using scanner settings. Keep the printer mod
+1 contractor_policy:0 0.398 0 236 Employees may request remote work with manager approval. Contractors may work remotely only when the signed co
+2 contractor_policy:5 0.142 1091 1208 If the contract is silent about remote work, the contractor must not assume that employee permission covers th
+3 late_rule_general:0 0.124 0 169 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 printer_help:0 0.439 0 214 For blank printer pages, check the ink level and run the printer cleaning utility. Print a test page after cle
+2 printer_help:2 0.308 462 688 Keep the printer model available when contacting technical support. A blank scanner image has a different caus
+3 printer_help:4 0.262 936 1169 Keep the printer model available when contacting technical support. A blank scanner image has a different caus
+1 password_help:0 0.163 0 205 A forgotten password can be reset by using the recovery link on the login page. Recovery codes must never be s
+2 late_rule_general:6 0.136 929 1172 Students should check the portal for the current submission date and should not rely on an informal message. K
+3 printer_help:4 0.121 936 1169 Keep the printer model available when contacting technical support. A blank scanner image has a different caus
+1 assignment_upload:2 0.324 429 636 Students can open the course page and choose the assignment upload area. A file is not submitted until the por
+2 assignment_upload:4 0.267 831 1052 Students can open the course page and choose the assignment upload area. A file is not submitted until the por
+3 assignment_upload:1 0.261 234 429 A file is not submitted until the portal displays a receipt. Students can open the course page and choose the 
+1 late_rule:0 0.268 0 236 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule:4 0.241 902 1136 Students should check the course portal for dates and keep a copy of the submitted file. The coordinator revie
+3 late_rule_general:0 0.227 0 169 Late work is normally not accepted after the deadline. An extension may be considered only when the course coo
+1 assignment_upload:4 0.329 831 1052 Students can open the course page and choose the assignment upload area. A file is not submitted until the por
+2 late_rule:0 0.296 0 236 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+3 late_rule:2 0.236 449 689 Students should check the course portal for dates and keep a copy of the submitted file. The coordinator revie
+1 late_rule:0 0.0 0 236 Late submission is normally penalized. Students with illness may request an extension only when medical eviden
+2 late_rule:1 0.0 236 449 The coordinator reviews requests using the stated conditions. Students should check the course portal for date
+3 late_rule:2 0.0 449 689 Students should check the course portal for dates and keep a copy of the submitted file. The coordinator revie
+Saved retrieval_log.csv
+
+Exit code: 0
+Elapsed seconds: 1.5376

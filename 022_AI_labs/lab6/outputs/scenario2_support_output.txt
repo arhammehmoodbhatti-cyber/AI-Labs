@@ -1,0 +1,5 @@
+returns:damage score=0.315 For a damaged parcel, contact support within 48 hours and attach photographs of the item and packaging.
+returns:change score=0.000 For a change of mind, return unused items within 14 days.
+
+Exit code: 0
+Elapsed seconds: 1.3402

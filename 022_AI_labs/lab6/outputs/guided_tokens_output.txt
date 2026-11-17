@@ -1,0 +1,6 @@
+Whitespace: ['I', "can't", 'submit', 'CS4944', 'late!'] 5
+Word-like: ['I', 'can', 't', 'submit', 'CS4944', 'late'] 6
+Original: I can't submit CS4944 late!
+
+Exit code: 0
+Elapsed seconds: 0.6435

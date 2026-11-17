@@ -1,0 +1,35 @@
+===== lab4_astar_audit_output.txt =====
+
+ A* supplied
+path: ['S', 'A', 'C', 'G'] cost: 6 independent: 6
+processed: ['S', 'A', 'C', 'G']
+expanded: ['S', 'A', 'C'] count: 3
+frontier step: ('S', 0, 5, 5, [])
+frontier step: ('A', 1, 4, 5, [('B', 4, 8)])
+frontier step: ('C', 3, 2, 5, [('B', 4, 8)])
+
+ UCS
+path: ['S', 'A', 'C', 'G'] cost: 6 independent: 6
+processed: ['S', 'A', 'C', 'B', 'G']
+expanded: ['S', 'A', 'C', 'B'] count: 4
+frontier step: ('S', 0, 0, 0, [])
+frontier step: ('A', 1, 0, 1, [('B', 4, 4)])
+frontier step: ('C', 3, 0, 3, [('B', 4, 4)])
+
+ A* overestimate
+path: ['S', 'B', 'G'] cost: 9 independent: 9
+processed: ['S', 'A', 'B', 'G']
+expanded: ['S', 'A', 'B'] count: 3
+frontier step: ('S', 0, 5, 5, [])
+frontier step: ('A', 1, 4, 5, [('B', 4, 8)])
+frontier step: ('B', 4, 4, 8, [('C', 3, 13)])
+
+Consistency audit
+('S', 'A', 5, 5, True)
+('S', 'B', 5, 8, True)
+('A', 'C', 4, 4, True)
+('B', 'G', 4, 5, True)
+('C', 'G', 2, 3, True)
+
+Exit code: 0
+Elapsed seconds: 0.7076

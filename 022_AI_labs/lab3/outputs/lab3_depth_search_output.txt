@@ -1,0 +1,13 @@
+DLS
+limit 1 CUTOFF None
+limit 2 CUTOFF None
+limit 3 FOUND ['A', 'B', 'E', 'G']
+limit 4 FOUND ['A', 'B', 'E', 'G']
+IDDFS
+limit 0 CUTOFF None
+limit 1 CUTOFF None
+limit 2 CUTOFF None
+limit 3 FOUND ['A', 'B', 'E', 'G']
+
+Exit code: 0
+Elapsed seconds: 0.7684

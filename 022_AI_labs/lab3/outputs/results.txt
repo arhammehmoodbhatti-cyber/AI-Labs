@@ -1,0 +1,32 @@
+===== lab3_depth_search_output.txt =====
+DLS
+limit 1 CUTOFF None
+limit 2 CUTOFF None
+limit 3 FOUND ['A', 'B', 'E', 'G']
+limit 4 FOUND ['A', 'B', 'E', 'G']
+IDDFS
+limit 0 CUTOFF None
+limit 1 CUTOFF None
+limit 2 CUTOFF None
+limit 3 FOUND ['A', 'B', 'E', 'G']
+
+Exit code: 0
+Elapsed seconds: 0.7684
+
+===== lab3_search_output.txt =====
+BFS path: A -> B -> E -> G
+BFS processed: ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+DFS path: A -> B -> E -> G
+DFS processed: ['A', 'B', 'D', 'E', 'G']
+
+Exit code: 0
+Elapsed seconds: 0.7091
+
+===== lab3_ucs_output.txt =====
+UCS path: A -> B -> E -> G cost: 3
+UCS processed: ['A', 'B', 'D', 'E', 'G']
+Independent cost: 3
+BFS route: A -> C -> G cost: 12
+
+Exit code: 0
+Elapsed seconds: 0.8513

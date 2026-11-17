@@ -1,0 +1,5 @@
+assessment:late score=0.506 Late submission is normally penalized. Students with illness may request an extension with medical evidence before the deadline.
+assessment:format score=0.000 Submit the assignment as a PDF through the learning portal.
+
+Exit code: 0
+Elapsed seconds: 1.4194

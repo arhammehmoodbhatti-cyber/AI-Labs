@@ -1,0 +1,4 @@
+Model limit check not run: ModuleNotFoundError No module named 'sentence_transformers'
+
+Exit code: 0
+Elapsed seconds: 0.6855
